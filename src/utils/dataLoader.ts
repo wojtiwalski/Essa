@@ -119,6 +119,7 @@ export interface Controller {
   predecessor?: string;
   discontinued: boolean;
   designers: string[];
+  generalVariants?: string[];
   designNotes: string;
   history: string;
   reception: string;

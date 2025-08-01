@@ -110,7 +110,7 @@
     }
   ],
   "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
-  "variants": [
+  "generalVariants": [
     {
       "name": "Indigo",
       "color": "Purple",

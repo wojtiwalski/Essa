@@ -7,7 +7,7 @@
   "generation": "Eighth",
   "series": "DualShock",
   "modelNumbers": ["CUH-ZCT1", "CUH-ZCT2"],
-  "variants": [
+  "generalVariants": [
     "Launch model (2013)",
     "Revised model (2016) with improved battery life and light bar visibility"
   ],
