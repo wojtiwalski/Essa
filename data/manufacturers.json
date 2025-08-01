@@ -1,0 +1,98 @@
+[
+  {
+    "id": "nintendo",
+    "name": "Nintendo",
+    "slug": "nintendo",
+    "description": "Nintendo Co., Ltd. to japoński producent konsol i gier wideo, znany z innowacyjnych kontrolerów.",
+    "founded": 1889,
+    "country": "Japonia",
+    "website": "https://www.nintendo.com",
+    "logo": "🎮",
+    "color": "bg-red-500",
+    "isActive": true
+  },
+  {
+    "id": "sony",
+    "name": "Sony",
+    "slug": "sony",
+    "description": "Sony Interactive Entertainment, producent konsol PlayStation i kontrolerów DualShock.",
+    "founded": 1946,
+    "country": "Japonia",
+    "website": "https://www.playstation.com",
+    "logo": "🎯",
+    "color": "bg-blue-500",
+    "isActive": true
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "slug": "microsoft",
+    "description": "Microsoft Corporation, twórca konsol Xbox i innowacyjnych kontrolerów.",
+    "founded": 1975,
+    "country": "USA",
+    "website": "https://www.xbox.com",
+    "logo": "🎪",
+    "color": "bg-green-500",
+    "isActive": true
+  },
+  {
+    "id": "sega",
+    "name": "SEGA",
+    "slug": "sega",
+    "description": "SEGA Corporation, pionier branży gier wideo i twórca kultowych kontrolerów.",
+    "founded": 1960,
+    "country": "Japonia",
+    "website": "https://www.sega.com",
+    "logo": "🌀",
+    "color": "bg-purple-500",
+    "isActive": false
+  },
+  {
+    "id": "atari",
+    "name": "Atari",
+    "slug": "atari",
+    "description": "Atari Inc., pionier branży gier wideo i twórca pierwszych joysticków.",
+    "founded": 1972,
+    "country": "USA",
+    "website": "https://www.atari.com",
+    "logo": "🕹️",
+    "color": "bg-orange-500",
+    "isActive": false
+  },
+  {
+    "id": "logitech",
+    "name": "Logitech",
+    "slug": "logitech",
+    "description": "Logitech International, producent akcesoriów komputerowych i kontrolerów gaming.",
+    "founded": 1981,
+    "country": "Szwajcaria",
+    "website": "https://www.logitech.com",
+    "logo": "🖱️",
+    "color": "bg-indigo-500",
+    "isActive": true
+  },
+  {
+    "id": "8bitdo",
+    "name": "8BitDo",
+    "slug": "8bitdo",
+    "description": "8BitDo, specjalista od retro kontrolerów i akcesoriów gaming.",
+    "founded": 2013,
+    "country": "Chiny",
+    "website": "https://www.8bitdo.com",
+    "logo": "🎲",
+    "color": "bg-pink-500",
+    "isActive": true
+  },
+  {
+    "id": "razer",
+    "name": "Razer",
+    "slug": "razer",
+    "description": "Razer Inc., producent sprzętu gaming i profesjonalnych kontrolerów.",
+    "founded": 2005,
+    "country": "USA",
+    "website": "https://www.razer.com",
+    "logo": "🐍",
+    "color": "bg-emerald-500",
+    "isActive": true
+  }
+]

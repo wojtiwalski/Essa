@@ -1,0 +1,102 @@
+{
+  "navigation": {
+    "search_placeholder": "Search controller...",
+    "language": "Language",
+    "theme": "Theme",
+    "manufacturers": "Manufacturers",
+    "timeline": "Timeline",
+    "compare": "Compare",
+    "menu": "Menu"
+  },
+  "categories": {
+    "controllers": "Controllers",
+    "manufacturers": "Manufacturers", 
+    "years_history": "Years of History",
+    "last_update": "Last Update"
+  },
+  "generation_filter": {
+    "title": "Filter by generation",
+    "all": "All"
+  },
+  "random_controller": {
+    "title": "Random Controller of the Day",
+    "manufacturer": "Manufacturer",
+    "release_year": "Release Year",
+    "view_details": "View Details"
+  },
+  "controller_grid": {
+    "title": "All Controllers",
+    "controllers_count": "controllers",
+    "controller_count": "controller",
+    "details": "Details",
+    "no_results": "No controllers matching search criteria"
+  },
+  "controller_detail": {
+    "back": "Back to Home",
+    "tabs": {
+      "overview": "Overview",
+      "specs": "Specifications",
+      "history": "History", 
+      "variants": "Variants",
+      "tutorials": "Tutorials",
+      "gallery": "Gallery"
+    },
+    "specs": {
+      "connection": "Connection",
+      "weight": "Weight",
+      "battery": "Battery",
+      "battery_life": "Battery Life",
+      "dimensions": "Dimensions",
+      "buttons": "Buttons",
+      "analog_sticks": "Analog Sticks",
+      "triggers": "Triggers",
+      "platforms": "Platforms",
+      "interface": "Interface",
+      "main_buttons": "Main Buttons",
+      "analog_features": "Analog Features"
+    },
+    "overview": {
+      "description": "Description",
+      "key_features": "Key Features",
+      "control": "Control",
+      "special_features": "Special Features",
+      "notable_games": "Notable Games"
+    },
+    "history": {
+      "development": "Development History",
+      "designers": "Designers",
+      "design_notes": "Design Notes",
+      "reception_legacy": "Reception and Legacy",
+      "reception": "Reception",
+      "legacy": "Legacy",
+      "technical_challenges": "Technical Challenges"
+    },
+    "variants": {
+      "title": "Variants",
+      "color_options": "Color Options",
+      "model_numbers": "Model Numbers",
+      "regional_differences": "Regional Differences"
+    },
+    "tutorials": {
+      "title": "Tutorials",
+      "no_tutorials": "No tutorials available for this controller",
+      "external_link": "External Link"
+    },
+    "gallery": {
+      "title": "Gallery",
+      "no_images": "No images in gallery"
+    },
+    "external_links": "External Links",
+    "tags": "Tags"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "wireless": "Wireless",
+    "wired": "Wired",
+    "both": "Wireless/Wired",
+    "vibration": "Vibration",
+    "motion_control": "Motion Control",
+    "touchpad": "Touchpad"
+  }
+}

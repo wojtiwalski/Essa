@@ -1,0 +1,24 @@
+{
+  "siteName": "Padpedia",
+  "siteDescription": "Największa encyklopedia kontrolerów do gier w Polsce",
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-15",
+  "stats": {
+    "totalControllers": 150,
+    "totalManufacturers": 25,
+    "yearsOfHistory": 45,
+    "communityRating": "4.9/5"
+  },
+  "features": [
+    "Kompleksowa baza danych kontrolerów",
+    "Szczegółowe specyfikacje techniczne",
+    "Historia i ciekawostki",
+    "Porównywarka kontrolerów",
+    "Aktualności ze świata gamingu"
+  ],
+  "socialLinks": {
+    "github": "https://github.com/padpedia",
+    "twitter": "https://twitter.com/padpedia",
+    "discord": "https://discord.gg/padpedia"
+  }
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "first",
+    "name": "First",
+    "displayName": "1. generacja",
+    "startYear": 1972,
+    "endYear": 1977,
+    "description": "Pierwsze konsole domowe z prostymi kontrolerami",
+    "keyFeatures": ["Proste joysticki", "Jeden przycisk", "Przewodowe połączenie"]
+  },
+  {
+    "id": "second",
+    "name": "Second",
+    "displayName": "2. generacja",
+    "startYear": 1976,
+    "endYear": 1984,
+    "description": "Era Atari 2600 i pierwszych joysticków",
+    "keyFeatures": ["Joystick z jednym przyciskiem", "Wymienne kontrolery", "Pierwsze paddles"]
+  },
+  {
+    "id": "third",
+    "name": "Third",
+    "displayName": "3. generacja",
+    "startYear": 1983,
+    "endYear": 1987,
+    "description": "Nintendo NES wprowadza D-pad",
+    "keyFeatures": ["D-pad", "Przyciski A i B", "Start i Select"]
+  },
+  {
+    "id": "fourth",
+    "name": "Fourth",
+    "displayName": "4. generacja",
+    "startYear": 1987,
+    "endYear": 1996,
+    "description": "Super Nintendo i Sega Genesis",
+    "keyFeatures": ["Przyciski ramienne", "Więcej przycisków akcji", "Lepsze D-pady"]
+  },
+  {
+    "id": "fifth",
+    "name": "Fifth",
+    "displayName": "5. generacja",
+    "startYear": 1993,
+    "endYear": 2005,
+    "description": "Pierwsze analogi i wibracje",
+    "keyFeatures": ["Analogi", "Wibracje", "3D gaming", "Więcej przycisków"]
+  },
+  {
+    "id": "sixth",
+    "name": "Sixth",
+    "displayName": "6. generacja",
+    "startYear": 1998,
+    "endYear": 2013,
+    "description": "Dojrzałe kontrolery z podwójnymi analogami",
+    "keyFeatures": ["Podwójne analogi", "Pressure-sensitive buttons", "Pierwsze bezprzewodowe"]
+  },
+  {
+    "id": "seventh",
+    "name": "Seventh",
+    "displayName": "7. generacja",
+    "startYear": 2005,
+    "endYear": 2017,
+    "description": "Motion control i bezprzewodowe standardem",
+    "keyFeatures": ["Motion control", "Bezprzewodowe standardem", "HD gaming", "Online gaming"]
+  },
+  {
+    "id": "eighth",
+    "name": "Eighth",
+    "displayName": "8. generacja",
+    "startYear": 2012,
+    "endYear": 2020,
+    "description": "Touchpady, light bary i zaawansowane funkcje",
+    "keyFeatures": ["Touchpady", "Light bary", "Wbudowane głośniki", "Share buttons"]
+  },
+  {
+    "id": "ninth",
+    "name": "Ninth",
+    "displayName": "9. generacja",
+    "startYear": 2020,
+    "endYear": null,
+    "description": "Haptic feedback i adaptive triggers",
+    "keyFeatures": ["Haptic feedback", "Adaptive triggers", "Ultra-low latency", "Cross-platform"]
+  }
+]

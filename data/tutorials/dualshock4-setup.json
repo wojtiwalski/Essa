@@ -1,0 +1,62 @@
+{
+  "id": "dualshock4-setup",
+  "controllerId": "dualshock-4",
+  "title": "DualShock 4 Setup Guide",
+  "description": "Complete guide to setting up your DualShock 4 controller on various platforms",
+  "author": "Padpedia Team",
+  "difficulty": "beginner",
+  "estimatedTime": "10 minutes",
+  "tags": ["setup", "bluetooth", "pc", "ps4"],
+  "sections": [
+    {
+      "type": "html",
+      "title": "Introduction",
+      "content": "<p>The DualShock 4 is a versatile controller that works on multiple platforms. This guide will help you set it up properly.</p><p><strong>What you'll need:</strong></p><ul><li>DualShock 4 controller</li><li>USB cable (for initial setup)</li><li>Device with Bluetooth capability</li></ul>"
+    },
+    {
+      "type": "images",
+      "title": "Controller Overview",
+      "content": [
+        {
+          "url": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "caption": "DualShock 4 front view showing all buttons and touchpad"
+        },
+        {
+          "url": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "caption": "Back view with L2/R2 triggers and charging port"
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "title": "PlayStation 4 Setup",
+      "content": "<h3>Connecting to PS4</h3><ol><li>Connect the controller to your PS4 using a USB cable</li><li>Press the PS button to turn on the controller</li><li>The light bar will turn blue when connected</li><li>For wireless use, disconnect the USB cable</li></ol><p><em>Note: The controller will automatically pair with your PS4 console.</em></p>"
+    },
+    {
+      "type": "html",
+      "title": "PC Setup (Windows)",
+      "content": "<h3>Steam Setup</h3><p>Steam has built-in support for DualShock 4:</p><ol><li>Connect controller via USB or Bluetooth</li><li>Open Steam and go to Settings > Controller</li><li>Enable 'PlayStation Configuration Support'</li><li>Your controller is now ready to use</li></ol><h3>DS4Windows (Alternative)</h3><p>For non-Steam games, you can use DS4Windows software to emulate Xbox controller input.</p>"
+    },
+    {
+      "type": "links",
+      "title": "Useful Resources",
+      "content": [
+        {
+          "title": "Official PlayStation Support",
+          "url": "https://www.playstation.com/support/",
+          "description": "Official support documentation from Sony"
+        },
+        {
+          "title": "DS4Windows Download",
+          "url": "https://github.com/Ryochan7/DS4Windows",
+          "description": "Third-party software for Windows PC compatibility"
+        },
+        {
+          "title": "Steam Controller Configuration",
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Video tutorial on Steam controller setup"
+        }
+      ]
+    }
+  ]
+}

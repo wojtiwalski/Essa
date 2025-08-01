@@ -1,0 +1,88 @@
+{
+  "id": "xbox-wireless-controller",
+  "name": "Xbox Wireless Controller",
+  "slug": "xbox-wireless-controller",
+  "manufacturer": "Microsoft",
+  "releaseYear": 2020,
+  "generation": "Ninth",
+  "series": "Xbox Wireless Controller",
+  "modelNumbers": ["1914"],
+  "variants": [
+    "Standard model (2020)",
+    "Various color and special edition variants"
+  ],
+  "colorOptions": [
+    "Robot White, Carbon Black, Shock Blue, Pulse Red",
+    "Various special editions and custom designs"
+  ],
+  "platforms": ["Xbox Series X/S", "Xbox One", "PC", "Mobile", "Cloud Gaming"],
+  "communicationMethods": ["Bluetooth 5.0", "Xbox Wireless", "USB"],
+  "wired": true,
+  "wireless": true,
+  "interface": "Bluetooth 5.0, Xbox Wireless, USB-C",
+  "batteryType": "2 × AA batteries or rechargeable battery pack",
+  "batteryCapacity_mAh": 0,
+  "estimatedBatteryLifeHours": "40+ hours with AA batteries",
+  "chargingMethod": "USB-C (with battery pack)",
+  "buttonsTotal": 15,
+  "faceButtons": ["A", "B", "X", "Y", "View", "Menu", "Share"],
+  "shoulderButtons": ["LB", "RB"],
+  "triggers": ["LT", "RT"],
+  "analogSticks": 2,
+  "stickFeatures": [
+    "Textured grip on thumbsticks",
+    "Improved precision and responsiveness",
+    "L3/R3 clickable functionality"
+  ],
+  "dpadType": "Hybrid D-pad with faceted design",
+  "vibrationFeedback": true,
+  "vibrationTypes": ["Impulse triggers", "Rumble motors"],
+  "motionSensors": [],
+  "touchpad": false,
+  "touchpadDetails": "N/A",
+  "lightFeatures": ["Xbox button illumination"],
+  "audioOutput": "3.5mm headphone jack",
+  "audioInput": "None built-in",
+  "expansionPorts": ["3.5mm headphone jack"],
+  "macroSupport": false,
+  "programmableButtons": false,
+  "modularity": "None",
+  "buildMaterial": "Plastic with textured grips",
+  "weightGrams": 287,
+  "dimensions_mm": {
+    "width": 154,
+    "height": 106,
+    "depth": 69
+  },
+  "regionDifferences": [
+    "Minimal regional differences",
+    "Some color variants may be region-specific"
+  ],
+  "supportOnPC": "Full native support on Windows, Steam support",
+  "notableGames": [
+    "Halo Infinite",
+    "Forza Horizon 5",
+    "Microsoft Flight Simulator",
+    "Gears 5"
+  ],
+  "successor": "N/A",
+  "predecessor": "Xbox One Controller",
+  "discontinued": false,
+  "designers": ["Ryan Whitaker", "Carl Ledbetter"],
+  "designNotes": "Refined the successful Xbox One controller design with subtle improvements including a new D-pad, textured grips, and reduced latency.",
+  "history": "Developed alongside Xbox Series X/S consoles, focusing on backward compatibility and cross-generational support.",
+  "reception": "Praised for its refinements over the Xbox One controller, particularly the improved D-pad and build quality.",
+  "legacy": "Continues Microsoft's controller design philosophy while adding modern improvements and maintaining broad compatibility.",
+  "technicalChallenges": [
+    "Maintaining backward compatibility across multiple Xbox generations",
+    "Balancing new features with familiar design",
+    "Ensuring consistent performance across different connection methods"
+  ],
+  "descriptionShort": "Microsoft's latest Xbox controller with improved D-pad, textured grips, and Share button.",
+  "descriptionLong": "The Xbox Wireless Controller is Microsoft's controller for Xbox Series X/S, featuring an improved hybrid D-pad, textured grips, reduced latency, and a new Share button while maintaining compatibility with previous Xbox consoles.",
+  "externalLinks": {
+    "supportPage": "https://support.xbox.com/"
+  },
+  "image": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "tags": ["Xbox Series X/S", "Bluetooth", "Wireless", "Cross-platform", "Impulse Triggers"]
+}

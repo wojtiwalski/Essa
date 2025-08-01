@@ -1,0 +1,44 @@
+[
+  {
+    "id": "new-controllers",
+    "name": "Nowe pady",
+    "description": "Najnowsze kontrolery i ich premiery",
+    "color": "bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300",
+    "icon": "🎮"
+  },
+  {
+    "id": "updates",
+    "name": "Aktualizacje",
+    "description": "Aktualizacje firmware i oprogramowania",
+    "color": "bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300",
+    "icon": "🔄"
+  },
+  {
+    "id": "rumors",
+    "name": "Plotki",
+    "description": "Plotki i przecieki o nadchodzących kontrolerach",
+    "color": "bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-300",
+    "icon": "👂"
+  },
+  {
+    "id": "reviews",
+    "name": "Zestawienia",
+    "description": "Recenzje i porównania kontrolerów",
+    "color": "bg-orange-100 dark:bg-orange-900/30 text-orange-800 dark:text-orange-300",
+    "icon": "📊"
+  },
+  {
+    "id": "history",
+    "name": "Historia",
+    "description": "Historia i ciekawostki o kontrolerach",
+    "color": "bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-300",
+    "icon": "📚"
+  },
+  {
+    "id": "esports",
+    "name": "Esport",
+    "description": "Kontrolery w sporcie elektronicznym",
+    "color": "bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-300",
+    "icon": "🏆"
+  }
+]

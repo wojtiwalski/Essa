@@ -1,0 +1,112 @@
+{
+  "id": "dualshock-4",
+  "name": "Sony DualShock 4",
+  "slug": "dualshock-4",
+  "manufacturer": "Sony",
+  "releaseYear": 2013,
+  "generation": "Eighth",
+  "series": "DualShock",
+  "modelNumbers": ["CUH-ZCT1", "CUH-ZCT2"],
+  "variants": [
+    "Launch model (2013)",
+    "Revised model (2016) with improved battery life and light bar visibility"
+  ],
+  "colorOptions": [
+    "Jet Black, Glacier White, Magma Red, Wave Blue, Urban Camouflage",
+    "Various limited editions and special colors"
+  ],
+  "platforms": ["PlayStation 4", "PC", "Mac", "Mobile", "PlayStation 5 (PS4 games only)"],
+  "communicationMethods": ["Bluetooth 2.1", "USB"],
+  "wired": true,
+  "wireless": true,
+  "interface": "Bluetooth 2.1, USB",
+  "batteryType": "Lithium-ion rechargeable",
+  "batteryCapacity_mAh": 1000,
+  "estimatedBatteryLifeHours": "4-8 hours",
+  "chargingMethod": "Micro USB",
+  "buttonsTotal": 14,
+  "faceButtons": ["Triangle", "Square", "X", "Circle", "Share", "Options"],
+  "shoulderButtons": ["L1", "R1"],
+  "triggers": ["L2", "R2"],
+  "analogSticks": 2,
+  "stickFeatures": [
+    "Improved analog sticks with better grip",
+    "L3/R3 clickable functionality",
+    "Enhanced precision and responsiveness"
+  ],
+  "dpadType": "Cross-shaped D-pad (4-way digital)",
+  "vibrationFeedback": true,
+  "vibrationTypes": ["Dual rumble motors"],
+  "motionSensors": ["3-axis gyroscope", "3-axis accelerometer"],
+  "touchpad": true,
+  "touchpadDetails": "Multi-touch capacitive touchpad with click functionality",
+  "lightFeatures": ["LED light bar for player identification and game feedback"],
+  "audioOutput": "Built-in speaker and 3.5mm headphone jack",
+  "audioInput": "Built-in microphone",
+  "expansionPorts": ["3.5mm headphone jack"],
+  "macroSupport": false,
+  "programmableButtons": false,
+  "modularity": "None",
+  "buildMaterial": "Plastic with textured grips",
+  "weightGrams": 210,
+  "dimensions_mm": {
+    "width": 162,
+    "height": 52,
+    "depth": 98
+  },
+  "regionDifferences": [
+    "Button symbols vary by region (X and O functions swapped in Japan)",
+    "Some color variants were region-exclusive"
+  ],
+  "supportOnPC": "Full support via Steam, partial support in other applications",
+  "notableGames": [
+    "The Last of Us Part II",
+    "God of War (2018)",
+    "Spider-Man",
+    "Horizon Zero Dawn"
+  ],
+  "successor": "DualSense",
+  "predecessor": "DualShock 3",
+  "discontinued": false,
+  "designers": ["Toshimasa Aoki", "Kazuo Kii"],
+  "designNotes": "The DualShock 4 introduced several revolutionary features including a touchpad, light bar, and built-in speaker. The design focused on improved ergonomics and new ways to interact with games.",
+  "history": "Development began in 2010 alongside the PlayStation 4. Sony conducted extensive user testing to refine the controller's ergonomics and feature set.",
+  "reception": "Widely praised for its improved ergonomics, innovative touchpad, and overall build quality. The light bar and speaker were initially controversial but became appreciated features.",
+  "legacy": "Set new standards for controller innovation with its touchpad and light bar. Influenced the design of future controllers across the industry.",
+  "technicalChallenges": [
+    "Initial battery life concerns",
+    "Light bar could be distracting in dark rooms",
+    "Touchpad durability issues in early models"
+  ],
+  "descriptionShort": "Revolutionary PlayStation 4 controller with touchpad, light bar, and motion controls.",
+  "descriptionLong": "The DualShock 4 is Sony's fourth iteration of the DualShock controller series, designed for the PlayStation 4. It features a revolutionary touchpad, LED light bar, built-in speaker, and improved ergonomics over its predecessor.",
+  "externalLinks": {
+    "wikipedia": "https://en.wikipedia.org/wiki/DualShock#DualShock_4",
+    "supportPage": "https://www.playstation.com/support/"
+  },
+  "images": [
+    {
+      "id": "main",
+      "url": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "alt": "Sony DualShock 4 - główny widok",
+      "type": "main",
+      "description": "Główny widok kontrolera DualShock 4"
+    },
+    {
+      "id": "detail",
+      "url": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Sony DualShock 4 - szczegółowy widok",
+      "type": "detail",
+      "description": "Szczegółowy widok przycisków i touchpada"
+    },
+    {
+      "id": "back",
+      "url": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "alt": "Sony DualShock 4 - widok z tyłu",
+      "type": "back",
+      "description": "Widok z tyłu kontrolera"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "tags": ["PlayStation 4", "Bluetooth", "Touchpad", "Wireless", "Motion Control"]
+}

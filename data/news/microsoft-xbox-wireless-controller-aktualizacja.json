@@ -1,0 +1,15 @@
+{
+  "id": "microsoft-xbox-wireless-controller-aktualizacja",
+  "title": "Microsoft aktualizuje Xbox Wireless Controller - nowe kolory i funkcje",
+  "slug": "microsoft-xbox-wireless-controller-aktualizacja",
+  "excerpt": "Najnowsza aktualizacja firmware wprowadza lepszą responsywność i nowe opcje personalizacji dla kontrolerów Xbox.",
+  "content": "<p>Microsoft ogłosił znaczącą aktualizację dla Xbox Wireless Controller.</p>",
+  "date": "2024-01-12",
+  "author": "Redakcja Padpedia",
+  "category": "updates",
+  "readTime": 3,
+  "image": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=400",
+  "tags": ["Microsoft", "Xbox", "Aktualizacja"],
+  "featured": false,
+  "relatedControllers": ["xbox-wireless-controller", "dualshock-4"]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "gamecube-controller",
+  "name": "Nintendo GameCube Controller",
+  "slug": "gamecube-controller",
+  "manufacturer": "Nintendo",
+  "releaseYear": 2001,
+  "generation": "Sixth",
+  "series": "N/A",
+  "modelNumbers": ["DOL-003", "DOL-003(-01)"],
+  "variants": [
+    "Launch model (2001, approx. 2 m cable)",
+    "Revised 3 m cable variant (2008 re-release)"
+  ],
+  "colorOptions": [
+    "Indigo (purple), Jet Black, Spice Orange, and Platinum (silver) standard colors",
+    "White (Japan-only, 2008) and various special editions (e.g., Smash Bros. branded reissues)"
+  ],
+  "platforms": [
+    "Nintendo GameCube",
+    "Wii (with GameCube controller ports)",
+    "Wii U (via GameCube Controller Adapter)",
+    "Nintendo Switch (via GameCube Controller Adapter)"
+  ],
+  "communicationMethods": ["Wired (Nintendo GameCube controller port)"],
+  "wired": true,
+  "wireless": false,
+  "interface": "Proprietary Nintendo GameCube 7-pin connector",
+  "batteryType": "None (wired power)",
+  "batteryCapacity_mAh": 0,
+  "estimatedBatteryLifeHours": "N/A",
+  "chargingMethod": "N/A",
+  "buttonsTotal": 12,
+  "faceButtons": ["A", "B", "X", "Y", "Start"],
+  "shoulderButtons": ["Z"],
+  "triggers": ["L", "R"],
+  "analogSticks": 2,
+  "stickFeatures": [
+    "Octagonal gated analog stick design for precise control",
+    "Secondary C-stick (yellow) for camera/dual-analog input",
+    "No L3/R3 (stick click) functionality"
+  ],
+  "dpadType": "Cross-shaped D-pad (4-way digital)",
+  "vibrationFeedback": true,
+  "vibrationTypes": ["Built-in rumble motor"],
+  "motionSensors": [],
+  "touchpad": false,
+  "touchpadDetails": "N/A",
+  "lightFeatures": ["None"],
+  "audioOutput": "None",
+  "audioInput": "None",
+  "expansionPorts": ["None"],
+  "macroSupport": false,
+  "programmableButtons": false,
+  "modularity": "None",
+  "buildMaterial": "Plastic (textured shell with rubberized analog stick tops)",
+  "weightGrams": 200,
+  "dimensions_mm": {
+    "width": 140,
+    "height": 100,
+    "depth": 65
+  },
+  "regionDifferences": [
+    "Spice Orange and half-transparent Indigo/Clear controllers were released in Japan but not widely in North America or Europe",
+    "A white GameCube controller (with a longer cable) was released exclusively in Japan in 2008, whereas Western regions received a black Smash Bros. edition re-release in 2014"
+  ],
+  "supportOnPC": "Supported via USB adapters (e.g., official Wii U/Switch adapter); no native PC support on original hardware",
+  "notableGames": [
+    "Super Smash Bros. Melee",
+    "Mario Kart: Double Dash!!",
+    "Super Mario Sunshine",
+    "The Legend of Zelda: The Wind Waker"
+  ],
+  "successor": "Wii Remote + Nunchuk",
+  "predecessor": "Nintendo 64 controller",
+  "discontinued": false,
+  "designers": ["Kenichiro Ashida"],
+  "designNotes": "Nintendo transitioned from the N64's three-pronged controller to a more conventional dual-grip design for the GameCube pad. Its layout was deliberately unique – a large green A button sat at the center of the right side, with a smaller red B button below it and kidney-shaped X and Y buttons above and to the right. According to Nintendo designer Kenichiro Ashida, the controller was intended to be so intuitive that the player would forget they were holding it. It also introduced analog L/R triggers that register a \"click\" when fully pressed, effectively providing two stages of input.",
+  "history": "First released alongside the GameCube console in late 2001, the controller was available in multiple colors from the start to boost its appeal. In 2002, Nintendo introduced the WaveBird wireless variant, though the wired controller remained the standard for most players. The GameCube controller's relevance continued into the Wii era – the Wii's backward compatibility and support for GameCube controllers in select games led to a resurgence in demand, prompting Nintendo to resume production of the pads with longer cables around 2008.",
+  "reception": "The GameCube controller was met with widespread praise for its ergonomic feel and innovative layout. Many players found it extremely comfortable to hold over long sessions, and its responsive analog sticks and triggers were well-suited to titles like Super Smash Bros. Melee. Some criticism was directed at the controller's tiny D-pad and the single Z button, which made certain multi-platform games less convenient to control.",
+  "legacy": "Though the GameCube controller's eccentric features were not widely adopted by later controllers, its influence can still be seen. The staggered analog stick layout became a standard on Microsoft's Xbox controllers and others that followed. The controller's enduring popularity, especially within the competitive Smash Bros. community, led Nintendo to re-release it for subsequent consoles long after the GameCube era.",
+  "technicalChallenges": [
+    "Very small D-pad, which was less comfortable for games that relied on heavy D-pad use",
+    "Only one digital shoulder button (Z on the right), so some games lacked a second shoulder input on the left side",
+    "Compact C-stick design made precise camera or second-stick aiming more difficult in certain genres"
+  ],
+  "descriptionShort": "Nintendo's distinctive GameCube gamepad with dual analog sticks, pressure-sensitive triggers, and a unique big A button layout.",
+  "descriptionLong": "The Nintendo GameCube controller is a wing-grip style gamepad introduced in 2001 as the standard controller for the GameCube console. It features two ergonomic handles and connects to the console via a 2 m cable. The controller provides built-in vibration feedback through an internal rumble motor. The GameCube pad includes six digital buttons along with two clickable analog thumbsticks and two analog shoulder triggers.",
+  "externalLinks": {
+    "wikipedia": "https://en.wikipedia.org/wiki/GameCube_controller",
+    "manual": "http://www.nintendo.com/consumer/downloads/gcn101_manual_english.pdf",
+    "supportPage": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68609/~/nintendo-gamecube-controller-overview-%26-faq"
+  },
+  "images": [
+    {
+      "id": "main",
+      "url": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "alt": "Nintendo GameCube Controller - główny widok",
+      "type": "main",
+      "description": "Główny widok kontrolera GameCube"
+    },
+    {
+      "id": "detail",
+      "url": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "alt": "Nintendo GameCube Controller - szczegółowy widok",
+      "type": "detail",
+      "description": "Szczegółowy widok przycisków i analogów"
+    },
+    {
+      "id": "back",
+      "url": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "alt": "Nintendo GameCube Controller - widok z tyłu",
+      "type": "back",
+      "description": "Widok z tyłu kontrolera"
+    }
+  ],
+  "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "tags": ["Nintendo", "GameCube", "Wired", "Analog Triggers", "Octagonal Gates"]
+} 

@@ -1,0 +1,88 @@
+{
+  "id": "nintendo-switch-pro-controller",
+  "name": "Nintendo Switch Pro Controller",
+  "slug": "nintendo-switch-pro-controller",
+  "manufacturer": "Nintendo",
+  "releaseYear": 2017,
+  "generation": "Eighth",
+  "series": "Pro Controller",
+  "modelNumbers": ["HAC-013"],
+  "variants": [
+    "Standard model (2017)",
+    "Various special editions and limited colors"
+  ],
+  "colorOptions": [
+    "Black standard model",
+    "Various special editions and limited colors"
+  ],
+  "platforms": ["Nintendo Switch", "PC"],
+  "communicationMethods": ["Bluetooth", "USB-C"],
+  "wired": true,
+  "wireless": true,
+  "interface": "Bluetooth, USB-C",
+  "batteryType": "Lithium-ion rechargeable",
+  "batteryCapacity_mAh": 1300,
+  "estimatedBatteryLifeHours": "40+ hours",
+  "chargingMethod": "USB-C",
+  "buttonsTotal": 16,
+  "faceButtons": ["A", "B", "X", "Y", "Plus", "Minus", "Home", "Capture"],
+  "shoulderButtons": ["L", "R"],
+  "triggers": ["ZL", "ZR"],
+  "analogSticks": 2,
+  "stickFeatures": [
+    "High-precision analog sticks",
+    "L3/R3 clickable functionality",
+    "Improved grip and responsiveness"
+  ],
+  "dpadType": "Cross-shaped D-pad (4-way digital)",
+  "vibrationFeedback": true,
+  "vibrationTypes": ["HD Rumble"],
+  "motionSensors": ["3-axis gyroscope", "3-axis accelerometer"],
+  "touchpad": false,
+  "touchpadDetails": "N/A",
+  "lightFeatures": ["None"],
+  "audioOutput": "None",
+  "audioInput": "None",
+  "expansionPorts": ["NFC reader for Amiibo"],
+  "macroSupport": false,
+  "programmableButtons": false,
+  "modularity": "None",
+  "buildMaterial": "Plastic with textured grips",
+  "weightGrams": 246,
+  "dimensions_mm": {
+    "width": 152,
+    "height": 106,
+    "depth": 60
+  },
+  "regionDifferences": [
+    "Minimal regional differences",
+    "Some color variants may be region-specific"
+  ],
+  "supportOnPC": "Full support via Steam and other applications",
+  "notableGames": [
+    "The Legend of Zelda: Breath of the Wild",
+    "Super Mario Odyssey",
+    "Super Smash Bros. Ultimate",
+    "Animal Crossing: New Horizons"
+  ],
+  "successor": "N/A",
+  "predecessor": "Wii U GamePad",
+  "discontinued": false,
+  "designers": ["Ko Shiota"],
+  "designNotes": "The Nintendo Switch Pro Controller was designed as a premium alternative to the Joy-Con controllers, offering a traditional gamepad layout with high-quality construction and extended battery life.",
+  "history": "Released alongside the Nintendo Switch in 2017, the Pro Controller was designed to provide a traditional gaming experience for players who preferred a conventional gamepad layout over the innovative but unconventional Joy-Con controllers.",
+  "reception": "Widely praised for its excellent build quality, comfortable ergonomics, and impressive battery life. The HD Rumble feature and motion controls were appreciated additions that maintained Nintendo's innovative approach.",
+  "legacy": "Set a new standard for Nintendo controllers with its premium build quality and extended battery life. The Pro Controller demonstrated that Nintendo could create a traditional gamepad that rivaled the best offerings from competitors.",
+  "technicalChallenges": [
+    "Implementing HD Rumble in a traditional gamepad form factor",
+    "Maintaining long battery life while including advanced features",
+    "Ensuring compatibility with both Switch and PC platforms"
+  ],
+  "descriptionShort": "Premium Nintendo Switch controller with HD Rumble and motion controls.",
+  "descriptionLong": "The Nintendo Switch Pro Controller is a premium gamepad designed for the Nintendo Switch, offering a traditional layout with advanced features like HD Rumble and motion controls. It provides an excellent alternative to the Joy-Con controllers for players who prefer a conventional gamepad experience.",
+  "externalLinks": {
+    "supportPage": "https://www.nintendo.com/support/"
+  },
+  "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "tags": ["Nintendo Switch", "HD Rumble", "Motion Control", "Amiibo", "Bluetooth"]
+}

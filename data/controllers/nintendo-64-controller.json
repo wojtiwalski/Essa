@@ -1,0 +1,101 @@
+{
+    "id": "nintendo-64-controller",
+    "name": "Nintendo 64 Controller",
+    "slug": "nintendo-64-controller",
+    "manufacturer": "Nintendo",
+    "releaseYear": 1996,
+    "generation": "Fifth",
+    "series": "N/A",
+    "modelNumbers": ["NUS-005"],
+    "variants": [
+      "Launch model (1996, standard cable length ~2.1 m)",
+      "Color edition variants (1997–2001): including Atomic Purple, Jungle Green, Ice Blue, Fire Orange, Grape Purple, Smoke Black",
+      "Limited edition controllers bundled with Pikachu N64 or game-specific packs"
+    ],
+    "colorOptions": [
+      "Standard Gray, plus color variants: Atomic Purple (translucent), Jungle Green, Fire Orange, Ice Blue, Grape Purple, Smoke Black, Clear Blue, and Clear Red",
+      "Special editions: Pokémon Center Pikachu (yellow/blue), Donkey Kong 64 banana-yellow (Japan), and Toys 'R' Us Gold"
+    ],
+    "platforms": [
+      "Nintendo 64",
+      "Nintendo GameCube (via unofficial adapters)",
+      "Nintendo Switch (via official NSO Wireless N64 controller)"
+    ],
+    "communicationMethods": ["Wired (Nintendo 64 controller port)"],
+    "wired": true,
+    "wireless": false,
+    "interface": "Proprietary Nintendo 64 controller connector (plug with 3-pin + clip design)",
+    "batteryType": "None (wired power)",
+    "batteryCapacity_mAh": 0,
+    "estimatedBatteryLifeHours": "N/A",
+    "chargingMethod": "N/A",
+    "buttonsTotal": 10,
+    "faceButtons": ["A", "B", "C-Left", "C-Right", "C-Up", "C-Down", "Start"],
+    "shoulderButtons": ["L", "R"],
+    "triggers": ["Z (underside trigger behind analog stick)"],
+    "analogSticks": 1,
+    "stickFeatures": [
+      "Central optical analog stick with 360° movement",
+      "No L3 (click) functionality",
+      "High wear rate due to plastic-on-plastic mechanism",
+      "Resolution: ~8-bit precision (~128 steps per axis)"
+    ],
+    "dpadType": "Cross-shaped D-pad (4-way digital, left prong)",
+    "vibrationFeedback": true,
+    "vibrationTypes": ["External Rumble Pak (inserted into expansion port)"],
+    "motionSensors": [],
+    "touchpad": false,
+    "touchpadDetails": "N/A",
+    "lightFeatures": ["None"],
+    "audioOutput": "None",
+    "audioInput": "None",
+    "expansionPorts": ["1 x Controller Pak Slot (rear), used for Rumble Pak, Memory Pak, Transfer Pak, VRU"],
+    "macroSupport": false,
+    "programmableButtons": false,
+    "modularity": "Expansion port allows swapping of accessories like memory, rumble, or data transfer paks",
+    "buildMaterial": "Plastic shell (smooth surface), concave rubberized analog stick head",
+    "weightGrams": 230,
+    "dimensions_mm": {
+      "width": 160,
+      "height": 110,
+      "depth": 60
+    },
+    "regionDifferences": [
+      "Japan received several transparent color variants earlier than North America",
+      "Donkey Kong 64 yellow controller was standard in Japan but limited-edition elsewhere",
+      "Pikachu-themed blue/yellow N64 controllers were bundled with region-specific consoles"
+    ],
+    "supportOnPC": "Supported via USB adapters or modern USB replicas (e.g., Retro-Bit Tribute64, Hyperkin)",
+    "notableGames": [
+      "Super Mario 64",
+      "The Legend of Zelda: Ocarina of Time",
+      "GoldenEye 007",
+      "Mario Kart 64",
+      "Banjo-Kazooie",
+      "Star Fox 64"
+    ],
+    "successor": "Nintendo GameCube Controller",
+    "predecessor": "Super Nintendo Entertainment System (SNES) Controller",
+    "discontinued": true,
+    "designers": ["Genyo Takeda"],
+    "designNotes": "The N64 controller broke conventions with a three-pronged design allowing for multiple hand positions: one for D-pad games (left and right grips), and another for 3D games using the central analog stick and Z trigger. Nintendo’s goal was to ease players into 3D gameplay by combining familiar buttons with a new, central analog stick. The expansion slot was introduced for future-proofing the hardware for features like rumble and memory saving.",
+    "history": "Unveiled in 1996 with the launch of the Nintendo 64, the controller was the first from Nintendo to include an analog stick, setting a new industry standard for 3D gaming. Its radical design received mixed reactions at the time, but it introduced concepts that became fundamental to modern controllers. The expansion slot allowed for add-ons such as the Rumble Pak (1997) and Transfer Pak (used with Pokémon Stadium). Nintendo released over a dozen official color variants, many tied to region-specific bundles. Despite initial criticism, its influence can be seen across modern controller design philosophy.",
+    "reception": "The N64 controller was praised for its innovation—particularly the analog stick and modular expansion port. However, it was criticized for awkward ergonomics due to its three-prong design and rapid analog stick degradation. Many games relied heavily on analog control, limiting the usefulness of the D-pad. Despite this, the controller became iconic due to its association with generation-defining games like Mario 64 and GoldenEye.",
+    "legacy": "The Nintendo 64 controller popularized analog control and force feedback in console gaming. Although its design was ultimately abandoned in favor of dual-grip formats, its influence on camera control, trigger buttons, and modular add-ons persists. The modern Switch Online N64 controller is a wireless recreation for nostalgia and retro gaming accuracy. Fans continue to mod and restore original N64 controllers, while companies like Retro-Bit produce modernized variants with improved ergonomics and USB support.",
+    "technicalChallenges": [
+      "Analog stick wear due to internal grinding mechanism (plastic on plastic)",
+      "Unusual three-prong layout confused new players and was not optimal for all game genres",
+      "No second analog stick, limiting camera control in complex 3D games",
+      "Expansion slot accessories required additional purchases (Rumble, Memory, Transfer)"
+    ],
+    "descriptionShort": "Nintendo’s unconventional three-prong controller that introduced analog movement and modular accessories.",
+    "descriptionLong": "The Nintendo 64 controller is a uniquely designed gamepad released in 1996. Featuring three grips and a central analog stick, it pioneered 3D movement input on home consoles. The controller includes 10 buttons, one analog stick, a rear Z-trigger, and a modular expansion slot for accessories like the Rumble Pak and Memory Pak. Its layout allowed players to hold the controller in different configurations depending on the game. Though controversial at launch, it laid the foundation for modern analog control in gaming.",
+    "externalLinks": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Nintendo_64_controller",
+      "manual": "https://www.nintendo.com/consumer/downloads/n64_control_manual.pdf",
+      "supportPage": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/577/~/nintendo-64-controller-faq"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/N64-Controller-Gray.jpg",
+    "tags": ["Nintendo", "N64", "Analog Stick", "Expansion Port", "Rumble Pak", "Three-Prong Design"]
+  }
+  

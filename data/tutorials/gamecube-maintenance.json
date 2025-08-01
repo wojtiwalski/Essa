@@ -1,0 +1,48 @@
+{
+  "id": "gamecube-maintenance",
+  "controllerId": "gamecube-controller",
+  "title": "GameCube Controller Maintenance",
+  "description": "How to clean and maintain your GameCube controller for optimal performance",
+  "author": "RetroGaming Expert",
+  "difficulty": "intermediate",
+  "estimatedTime": "30 minutes",
+  "tags": ["maintenance", "cleaning", "repair", "gamecube"],
+  "sections": [
+    {
+      "type": "html",
+      "title": "Why Maintenance Matters",
+      "content": "<p>GameCube controllers are known for their durability, but regular maintenance ensures they continue performing at their best, especially for competitive gaming.</p><p><strong>Common issues:</strong></p><ul><li>Sticky buttons</li><li>Analog stick drift</li><li>Worn analog stick gates</li><li>Dirty contacts</li></ul>"
+    },
+    {
+      "type": "images",
+      "title": "Tools Required",
+      "content": [
+        {
+          "url": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "caption": "GameCube controller disassembled showing internal components"
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "title": "Cleaning Process",
+      "content": "<h3>External Cleaning</h3><ol><li>Disconnect the controller</li><li>Use isopropyl alcohol (70%+) and cotton swabs</li><li>Clean around buttons and analog sticks</li><li>Wipe down the entire surface</li></ol><h3>Internal Cleaning (Advanced)</h3><p><strong>Warning:</strong> This requires disassembly and may void warranty.</p><ol><li>Remove screws from the back</li><li>Carefully separate the shell halves</li><li>Clean button contacts with alcohol</li><li>Lubricate analog stick mechanisms if needed</li></ol>"
+    },
+    {
+      "type": "links",
+      "title": "Additional Resources",
+      "content": [
+        {
+          "title": "GameCube Controller Repair Guide",
+          "url": "https://www.youtube.com/watch?v=example2",
+          "description": "Detailed video guide for controller repair"
+        },
+        {
+          "title": "Replacement Parts Store",
+          "url": "https://example-store.com",
+          "description": "Where to buy replacement analog sticks and buttons"
+        }
+      ]
+    }
+  ]
+}

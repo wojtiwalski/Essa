@@ -1,0 +1,102 @@
+{
+  "navigation": {
+    "search_placeholder": "Szukaj kontrolera...",
+    "language": "Język",
+    "theme": "Motyw",
+    "manufacturers": "Producenci",
+    "timeline": "Oś czasu",
+    "compare": "Porównywarka",
+    "menu": "Menu"
+  },
+  "categories": {
+    "controllers": "Kontrolerów",
+    "manufacturers": "Producentów",
+    "years_history": "Lat historii",
+    "last_update": "Ostatnia aktualizacja"
+  },
+  "generation_filter": {
+    "title": "Filtruj według generacji",
+    "all": "Wszystkie"
+  },
+  "random_controller": {
+    "title": "Losowy pad dnia",
+    "manufacturer": "Producent",
+    "release_year": "Rok premiery",
+    "view_details": "Zobacz szczegóły"
+  },
+  "controller_grid": {
+    "title": "Wszystkie kontrolery",
+    "controllers_count": "kontrolerów",
+    "controller_count": "kontroler",
+    "details": "Szczegóły",
+    "no_results": "Brak kontrolerów spełniających kryteria wyszukiwania"
+  },
+  "controller_detail": {
+    "back": "Powrót do strony głównej",
+    "tabs": {
+      "overview": "Przegląd",
+      "specs": "Specyfikacja", 
+      "history": "Historia",
+      "variants": "Warianty",
+      "tutorials": "Tutorials",
+      "gallery": "Galeria"
+    },
+    "specs": {
+      "connection": "Połączenie",
+      "weight": "Waga",
+      "battery": "Bateria",
+      "battery_life": "Czas pracy",
+      "dimensions": "Wymiary",
+      "buttons": "Przyciski",
+      "analog_sticks": "Analogi",
+      "triggers": "Triggery",
+      "platforms": "Platformy",
+      "interface": "Interfejs",
+      "main_buttons": "Przyciski główne",
+      "analog_features": "Funkcje analogów"
+    },
+    "overview": {
+      "description": "Opis",
+      "key_features": "Kluczowe funkcje",
+      "control": "Sterowanie",
+      "special_features": "Funkcje specjalne",
+      "notable_games": "Znane gry"
+    },
+    "history": {
+      "development": "Historia rozwoju",
+      "designers": "Projektanci",
+      "design_notes": "Notatki projektowe",
+      "reception_legacy": "Odbiór i dziedzictwo",
+      "reception": "Odbiór",
+      "legacy": "Dziedzictwo",
+      "technical_challenges": "Wyzwania techniczne"
+    },
+    "variants": {
+      "title": "Warianty",
+      "color_options": "Opcje kolorystyczne",
+      "model_numbers": "Numery modeli",
+      "regional_differences": "Różnice regionalne"
+    },
+    "tutorials": {
+      "title": "Tutorials",
+      "no_tutorials": "Brak dostępnych tutoriali dla tego kontrolera",
+      "external_link": "Link zewnętrzny"
+    },
+    "gallery": {
+      "title": "Galeria",
+      "no_images": "Brak zdjęć w galerii"
+    },
+    "external_links": "Linki zewnętrzne",
+    "tags": "Tagi"
+  },
+  "common": {
+    "loading": "Ładowanie...",
+    "error": "Wystąpił błąd",
+    "wireless": "Bezprzewodowy",
+    "wired": "Przewodowy",
+    "both": "Bezprzewodowy/Przewodowy",
+    "vibration": "Wibracje",
+    "motion_control": "Czujniki ruchu",
+    "touchpad": "Touchpad"
+  }
+}
