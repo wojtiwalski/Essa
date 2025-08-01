@@ -84,5 +84,30 @@
     "supportPage": "https://support.xbox.com/"
   },
   "image": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "variants": [
+    {
+      "name": "Robot White",
+      "color": "White",
+      "image": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Standardowy biały model"
+    },
+    {
+      "name": "Carbon Black",
+      "color": "Black",
+      "image": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Czarny wariant kontrolera"
+    },
+    {
+      "name": "Shock Blue",
+      "color": "Blue",
+      "image": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Niebieski wariant kontrolera"
+    }
+  ],
+  "gallery": [
+    "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
   "tags": ["Xbox Series X/S", "Bluetooth", "Wireless", "Cross-platform", "Impulse Triggers"]
 }

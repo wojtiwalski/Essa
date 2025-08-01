@@ -84,5 +84,17 @@
     "supportPage": "https://www.nintendo.com/support/"
   },
   "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "variants": [
+    {
+      "name": "Black",
+      "color": "Black",
+      "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Standardowy czarny model"
+    }
+  ],
+  "gallery": [
+    "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
   "tags": ["Nintendo Switch", "HD Rumble", "Motion Control", "Amiibo", "Bluetooth"]
 }

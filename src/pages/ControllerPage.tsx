@@ -433,57 +433,12 @@ const ControllerPage: React.FC = () => {
                   animate={{ opacity: 1, y: 0 }}
                   className="space-y-8"
                 >
-                  <div>
-                    <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-4">Warianty</h3>
-                    <div className="space-y-3">
-                      {controller.variants.map((variant, index) => (
-                        <div key={index} className="bg-gray-50 dark:bg-gray-700 rounded-xl p-4">
-                          <p className="text-gray-700 dark:text-gray-300">{variant}</p>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-
-                  <div>
-                    <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-4">Opcje kolorystyczne</h3>
-                    <div className="space-y-3">
-                      {controller.colorOptions.map((colorOption, index) => (
-                        <div key={index} className="bg-gray-50 dark:bg-gray-700 rounded-xl p-4">
-                          <p className="text-gray-700 dark:text-gray-300">{colorOption}</p>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-
-                  <div>
-                    <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-4">Numery modeli</h3>
-                    <div className="flex flex-wrap gap-2">
-                      {controller.modelNumbers.map((model) => (
-                        <span
-                          key={model}
-                          className="px-3 py-1 bg-indigo-100 dark:bg-indigo-900/30 text-indigo-800 dark:text-indigo-300 text-sm rounded-xl font-mono"
-                        >
-                          {model}
-                        </span>
-                      ))}
-                    </div>
-                  </div>
-
-                  {controller.regionDifferences.length > 0 && (
-                    <div>
-                      <h3 className="flex items-center space-x-2 text-xl font-bold text-gray-900 dark:text-white mb-4">
-                        <Globe className="h-6 w-6" />
-                        <span>Różnice regionalne</span>
-                      </h3>
-                      <div className="space-y-3">
-                        {controller.regionDifferences.map((difference, index) => (
-                          <div key={index} className="bg-blue-50 dark:bg-blue-900/20 rounded-xl p-4">
-                            <p className="text-blue-800 dark:text-blue-300">{difference}</p>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  )}
+                  <VariantsSection
+                    variants={controller.variants}
+                    colorOptions={controller.colorOptions}
+                    modelNumbers={controller.modelNumbers}
+                    regionDifferences={controller.regionDifferences}
+                  />
                 </motion.div>
               )}
             </div>
