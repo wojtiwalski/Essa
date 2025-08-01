@@ -134,7 +134,16 @@ export interface Controller {
   };
   image: string;
   images?: ControllerImage[];
+  variants?: ControllerVariant[];
+  gallery?: string[];
   tags: string[];
+}
+
+export interface ControllerVariant {
+  name: string;
+  color: string;
+  image: string;
+  description: string;
 }
 
 export interface NewsArticle {
@@ -151,6 +160,36 @@ export interface NewsArticle {
   tags: string[];
   featured: boolean;
   relatedControllers: string[];
+}
+
+export interface TutorialSection {
+  type: 'html' | 'images' | 'links';
+  title: string;
+  content: string | Array<{
+    url: string;
+    caption?: string;
+    title?: string;
+    description?: string;
+  }>;
+}
+
+export interface Tutorial {
+  id: string;
+  controllerId: string;
+  title: string;
+  description: string;
+  author: string;
+  difficulty: 'beginner' | 'intermediate' | 'advanced';
+  estimatedTime: string;
+  tags: string[];
+  sections: TutorialSection[];
+}
+
+export interface ControllerVariant {
+  name: string;
+  color: string;
+  image: string;
+  description: string;
 }
 
 // Data loader functions
@@ -337,6 +376,42 @@ export const loadControllersByIds = async (ids: string[]): Promise<Controller[]>
     return controllers;
   } catch (error) {
     console.error('Error loading controllers by IDs:', error);
+    return [];
+  }
+};
+
+export const loadTutorialsByControllerId = async (controllerId: string): Promise<Tutorial[]> => {
+  try {
+    // In a real application, this would fetch from an API endpoint
+    // For now, we'll automatically detect tutorial files
+    const tutorials: Tutorial[] = [];
+    
+    // List of known tutorial files (in a real app, this would be fetched from an API)
+    const tutorialFiles = [
+      'dualshock4-setup.json',
+      'gamecube-maintenance.json',
+      'nintendo-switch-pro-setup.json',
+      'xbox-wireless-maintenance.json'
+    ];
+    
+    for (const filename of tutorialFiles) {
+      try {
+        const response = await fetch(`/data/tutorials/${filename}`);
+        if (response.ok) {
+          const tutorial = await response.json();
+          if (tutorial.controllerId === controllerId) {
+            tutorials.push(tutorial);
+          }
+        }
+      } catch (error) {
+        // Skip files that don't exist or can't be loaded
+        continue;
+      }
+    }
+    
+    return tutorials;
+  } catch (error) {
+    console.error(`Error loading tutorials for controller ${controllerId}:`, error);
     return [];
   }
 };

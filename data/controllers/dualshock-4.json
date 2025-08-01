@@ -108,5 +108,30 @@
     }
   ],
   "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "variants": [
+    {
+      "name": "Jet Black",
+      "color": "Black",
+      "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Standardowy model startowy PS4"
+    },
+    {
+      "name": "Glacier White",
+      "color": "White",
+      "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Biały wariant kontrolera"
+    },
+    {
+      "name": "Magma Red",
+      "color": "Red",
+      "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Czerwony wariant kontrolera"
+    }
+  ],
+  "gallery": [
+    "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
   "tags": ["PlayStation 4", "Bluetooth", "Touchpad", "Wireless", "Motion Control"]
 }

@@ -4,16 +4,21 @@ import { motion } from 'framer-motion';
 import { 
   ArrowLeft, Calendar, Building, ExternalLink, Tag, Users, History, 
   Lightbulb, Cpu, Gamepad2, Wifi, WifiOff, Battery, Weight, Ruler,
-  Palette, Globe, Award, AlertTriangle, Info
+  Palette, Globe, Award, AlertTriangle, Info, BookOpen, Camera
 } from 'lucide-react';
 import Navigation from '../components/Navigation';
 import { loadController, Controller } from '../utils/dataLoader';
+import { loadTutorialsByControllerId, Tutorial } from '../utils/dataLoader';
 import ImageGallery from '../components/ImageGallery';
+import TutorialSection from '../components/TutorialSection';
+import VariantsSection from '../components/VariantsSection';
+import GallerySection from '../components/GallerySection';
 
 const ControllerPage: React.FC = () => {
   const { slug } = useParams<{ slug: string }>();
   const [controller, setController] = useState<Controller | null>(null);
   const [loading, setLoading] = useState(true);
+  const [tutorials, setTutorials] = useState<Tutorial[]>([]);
   const [activeTab, setActiveTab] = useState('overview');
 
   useEffect(() => {
@@ -24,6 +29,11 @@ const ControllerPage: React.FC = () => {
       try {
         const data = await loadController(slug);
         setController(data);
+        
+        if (data) {
+          const tutorialsData = await loadTutorialsByControllerId(data.id);
+          setTutorials(tutorialsData);
+        }
       } catch (error) {
         console.error('Error loading controller:', error);
       } finally {
@@ -76,6 +86,8 @@ const ControllerPage: React.FC = () => {
     { id: 'specs', name: 'Specyfikacja', icon: Cpu },
     { id: 'history', name: 'Historia', icon: History },
     { id: 'variants', name: 'Warianty', icon: Palette },
+    { id: 'tutorials', name: 'Tutorials', icon: BookOpen },
+    { id: 'gallery', name: 'Galeria', icon: Camera },
   ];
 
   return (

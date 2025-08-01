@@ -1,0 +1,43 @@
+{
+  "id": "xbox-wireless-maintenance",
+  "controllerId": "xbox-wireless-controller",
+  "title": "Xbox Wireless Controller Maintenance",
+  "description": "How to clean and maintain your Xbox Wireless Controller for optimal performance",
+  "author": "Gaming Expert",
+  "difficulty": "intermediate",
+  "estimatedTime": "20 minutes",
+  "tags": ["maintenance", "cleaning", "xbox", "care"],
+  "sections": [
+    {
+      "type": "html",
+      "title": "Why Maintenance Matters",
+      "content": "<p>Regular maintenance ensures your Xbox Wireless Controller continues performing at its best and extends its lifespan.</p><p><strong>Common issues prevented:</strong></p><ul><li>Sticky buttons</li><li>Analog stick drift</li><li>Dirty contacts</li><li>Battery degradation</li></ul>"
+    },
+    {
+      "type": "images",
+      "title": "Cleaning Supplies",
+      "content": [
+        {
+          "url": "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "caption": "Xbox Wireless Controller ready for cleaning"
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "title": "Cleaning Process",
+      "content": "<h3>External Cleaning</h3><ol><li>Turn off the controller and remove batteries</li><li>Use isopropyl alcohol (70%+) and cotton swabs</li><li>Clean around buttons and analog sticks</li><li>Wipe down the entire surface with a microfiber cloth</li><li>Allow to dry completely before reassembly</li></ol><h3>Button Maintenance</h3><p>For sticky buttons:</p><ol><li>Use compressed air to blow out debris</li><li>Apply small amount of contact cleaner if needed</li><li>Work buttons several times to distribute cleaner</li></ol>"
+    },
+    {
+      "type": "links",
+      "title": "Additional Resources",
+      "content": [
+        {
+          "title": "Xbox Support",
+          "url": "https://support.xbox.com/",
+          "description": "Official Xbox controller support and troubleshooting"
+        }
+      ]
+    }
+  ]
+}

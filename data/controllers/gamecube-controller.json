@@ -114,5 +114,30 @@
     }
   ],
   "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+  "variants": [
+    {
+      "name": "Indigo",
+      "color": "Purple",
+      "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Standardowy fioletowy model"
+    },
+    {
+      "name": "Jet Black",
+      "color": "Black",
+      "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Czarny wariant kontrolera"
+    },
+    {
+      "name": "Spice Orange",
+      "color": "Orange",
+      "image": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Pomarańczowy wariant (Japonia)"
+    }
+  ],
+  "gallery": [
+    "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800"
+  ],
   "tags": ["Nintendo", "GameCube", "Wired", "Analog Triggers", "Octagonal Gates"]
 } 

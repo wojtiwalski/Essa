@@ -1,0 +1,57 @@
+{
+  "id": "nintendo-switch-pro-setup",
+  "controllerId": "nintendo-switch-pro-controller",
+  "title": "Nintendo Switch Pro Controller Setup Guide",
+  "description": "Complete guide to setting up your Nintendo Switch Pro Controller on various platforms",
+  "author": "Padpedia Team",
+  "difficulty": "beginner",
+  "estimatedTime": "15 minutes",
+  "tags": ["setup", "bluetooth", "pc", "switch"],
+  "sections": [
+    {
+      "type": "html",
+      "title": "Introduction",
+      "content": "<p>The Nintendo Switch Pro Controller is a premium gamepad that works seamlessly with Nintendo Switch and PC. This guide will help you set it up properly.</p><p><strong>What you'll need:</strong></p><ul><li>Nintendo Switch Pro Controller</li><li>USB-C cable (for initial setup)</li><li>Device with Bluetooth capability</li></ul>"
+    },
+    {
+      "type": "images",
+      "title": "Controller Overview",
+      "content": [
+        {
+          "url": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "caption": "Nintendo Switch Pro Controller front view showing all buttons"
+        },
+        {
+          "url": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "caption": "Back view with USB-C charging port"
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "title": "Nintendo Switch Setup",
+      "content": "<h3>Connecting to Nintendo Switch</h3><ol><li>Turn on your Nintendo Switch console</li><li>Go to System Settings > Controllers and Sensors</li><li>Select 'Change Grip/Order'</li><li>Press and hold the sync button on the Pro Controller for 3 seconds</li><li>The controller will appear on screen when connected</li></ol><p><em>Note: The Pro Controller will automatically connect when the console is turned on.</em></p>"
+    },
+    {
+      "type": "html",
+      "title": "PC Setup (Windows)",
+      "content": "<h3>Steam Setup</h3><p>Steam has built-in support for Nintendo Switch Pro Controller:</p><ol><li>Connect controller via USB-C or Bluetooth</li><li>Open Steam and go to Settings > Controller</li><li>Enable 'Nintendo Switch Pro Configuration Support'</li><li>Your controller is now ready to use</li></ol><h3>Bluetooth Pairing</h3><ol><li>Hold the sync button for 3 seconds until lights flash</li><li>Go to Windows Settings > Devices > Bluetooth</li><li>Select 'Pro Controller' from the list</li><li>Click 'Pair' to complete setup</li></ol>"
+    },
+    {
+      "type": "links",
+      "title": "Useful Resources",
+      "content": [
+        {
+          "title": "Official Nintendo Support",
+          "url": "https://www.nintendo.com/support/",
+          "description": "Official support documentation from Nintendo"
+        },
+        {
+          "title": "Steam Controller Configuration",
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Video tutorial on Steam controller setup"
+        }
+      ]
+    }
+  ]
+}
