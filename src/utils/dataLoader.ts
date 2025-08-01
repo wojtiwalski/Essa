@@ -138,15 +138,6 @@ export interface Controller {
   gallery?: string[];
   tags: string[];
 }
-
-export interface ControllerVariant {
-  name: string;
-  color: string;
-  image: string;
-  description: string;
-}
-
-export interface NewsArticle {
   id: string;
   title: string;
   slug: string;

@@ -8,9 +8,42 @@
     "series": "N/A",
     "modelNumbers": ["NUS-005"],
     "variants": [
-      "Launch model (1996, standard cable length ~2.1 m)",
-      "Color edition variants (1997–2001): including Atomic Purple, Jungle Green, Ice Blue, Fire Orange, Grape Purple, Smoke Black",
-      "Limited edition controllers bundled with Pikachu N64 or game-specific packs"
+      {
+        "name": "Launch Model",
+        "color": "Gray",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/N64-Controller-Gray.jpg",
+        "description": "Standard gray controller released in 1996 with ~2.1m cable length"
+      },
+      {
+        "name": "Atomic Purple",
+        "color": "Purple",
+        "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
+        "description": "Translucent purple variant released in 1997"
+      },
+      {
+        "name": "Jungle Green",
+        "color": "Green", 
+        "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
+        "description": "Jungle green color variant from 1998"
+      },
+      {
+        "name": "Ice Blue",
+        "color": "Blue",
+        "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop", 
+        "description": "Ice blue translucent variant"
+      },
+      {
+        "name": "Fire Orange",
+        "color": "Orange",
+        "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
+        "description": "Fire orange color edition"
+      },
+      {
+        "name": "Pikachu Edition",
+        "color": "Yellow",
+        "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
+        "description": "Special Pikachu N64 bundle controller in yellow and blue"
+      }
     ],
     "colorOptions": [
       "Standard Gray, plus color variants: Atomic Purple (translucent), Jungle Green, Fire Orange, Ice Blue, Grape Purple, Smoke Black, Clear Blue, and Clear Red",
