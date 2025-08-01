@@ -76,7 +76,6 @@ export interface Controller {
   generation: string;
   series?: string;
   modelNumbers: string[];
-  variants: string[];
   colorOptions: string[];
   platforms: string[];
   communicationMethods: string[];
